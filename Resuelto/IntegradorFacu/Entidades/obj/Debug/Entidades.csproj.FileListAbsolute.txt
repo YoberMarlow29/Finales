@@ -1,0 +1,12 @@
+C:\Users\Facundo\source\repos\EjercicioIntegrador\Entidades\bin\Debug\Entidades.dll
+C:\Users\Facundo\source\repos\EjercicioIntegrador\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Facundo\source\repos\EjercicioIntegrador\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Facundo\source\repos\EjercicioIntegrador\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\source\repos\EjercicioIntegrador\Entidades\obj\Debug\Entidades.dll
+C:\Users\Facundo\source\repos\EjercicioIntegrador\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Yober\Desktop\Cascaras\Integrador-master\Entidades\bin\Debug\Entidades.dll
+C:\Users\Yober\Desktop\Cascaras\Integrador-master\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Yober\Desktop\Cascaras\Integrador-master\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Yober\Desktop\Cascaras\Integrador-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Yober\Desktop\Cascaras\Integrador-master\Entidades\obj\Debug\Entidades.dll
+C:\Users\Yober\Desktop\Cascaras\Integrador-master\Entidades\obj\Debug\Entidades.pdb

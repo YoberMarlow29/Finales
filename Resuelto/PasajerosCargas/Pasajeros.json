@@ -1,0 +1,52 @@
+[
+  {
+    "dni": 46603875,
+    "nombre": "Laura",
+    "equipaje": 2
+  },
+  {
+    "dni": 99062721,
+    "nombre": "Pedro",
+    "equipaje": 2
+  },
+  {
+    "dni": 76254243,
+    "nombre": "Laura",
+    "equipaje": 2
+  },
+  {
+    "dni": 45591792,
+    "nombre": "María",
+    "equipaje": 3
+  },
+  {
+    "dni": 38408338,
+    "nombre": "Carlos",
+    "equipaje": 3
+  },
+  {
+    "dni": 23097048,
+    "nombre": "Sofía",
+    "equipaje": 1
+  },
+  {
+    "dni": 51813097,
+    "nombre": "Luisa",
+    "equipaje": 1
+  },
+  {
+    "dni": 35413901,
+    "nombre": "Laura",
+    "equipaje": 2
+  },
+  {
+    "dni": 37074047,
+    "nombre": "María",
+    "equipaje": 3
+  },
+  {
+    "dni": 66519660,
+    "nombre": "Sofía",
+    "equipaje": 2
+  }
+]

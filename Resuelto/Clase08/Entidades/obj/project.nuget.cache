@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jeauCGhImQuj5flitZP8MmBcOmzE+tqFY/uZmYldGAgYGC5bQYAB6pVB5syiDn2WYLsvFjypDFbaHIESpfe1eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yober\\Desktop\\parcial\\ParcialMetodos\\Clase08\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yober\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario>
+    <Nombre>Yober</Nombre>
+    <Apellido>Marlow</Apellido>
+    <Edad>0</Edad>
+    <Dni>0</Dni>
+    <Legajo>0</Legajo>
+    <Correo>admin@admin.com</Correo>
+    <Clave>12345678</Clave>
+  </Usuario>
+</ArrayOfUsuario>

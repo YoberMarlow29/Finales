@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Clientes\FrmAltaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clientes\FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clientes\FrmModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuarios\FrmCrearCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuarios\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

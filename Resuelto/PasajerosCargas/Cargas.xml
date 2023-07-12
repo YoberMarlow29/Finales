@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfCarga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Carga>
+    <codigo>1</codigo>
+    <tipo>Electrónico</tipo>
+    <peso>2.5</peso>
+  </Carga>
+  <Carga>
+    <codigo>2</codigo>
+    <tipo>Alimenticio</tipo>
+    <peso>1.8</peso>
+  </Carga>
+  <Carga>
+    <codigo>3</codigo>
+    <tipo>Textil</tipo>
+    <peso>0.9</peso>
+  </Carga>
+</ArrayOfCarga>

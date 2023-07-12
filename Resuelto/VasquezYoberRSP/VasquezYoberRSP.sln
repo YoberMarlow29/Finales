@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesRSP", "EntidadesRSP\EntidadesRSP.csproj", "{133F3BB7-5935-4775-B0D2-5E3E6988FD1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppRSP", "WinFormsAppRSP\WinFormsAppRSP.csproj", "{3CB052C6-2834-46A8-AFD1-E805239480D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{133F3BB7-5935-4775-B0D2-5E3E6988FD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133F3BB7-5935-4775-B0D2-5E3E6988FD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133F3BB7-5935-4775-B0D2-5E3E6988FD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133F3BB7-5935-4775-B0D2-5E3E6988FD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB052C6-2834-46A8-AFD1-E805239480D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB052C6-2834-46A8-AFD1-E805239480D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB052C6-2834-46A8-AFD1-E805239480D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB052C6-2834-46A8-AFD1-E805239480D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CAAF187-1352-4EC8-B740-1745F9E5FC08}
+	EndGlobalSection
+EndGlobal
