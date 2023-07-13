@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BIK/0CbI7FlxZM8rZEOiDUVFNAbY0T3+pvNluibbyYmOZAx0hFKisOJgmJI2ga/b+gaz7kEhN3J2gheMLcmgig==",
+  "dgSpecHash": "8hOgAxeM/QIDTci4g+Mz/gL9J24UUoWfyNCUnsf9l9N71qr9vpGdi9oPFWnBfHctaVqFtfUGAPQ7Rbyq4fWVSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj",
+  "projectFilePath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

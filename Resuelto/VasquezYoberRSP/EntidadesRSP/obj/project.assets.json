@@ -519,11 +519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj",
+      "projectUniqueName": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj",
       "projectName": "EntidadesRSP",
-      "projectPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj",
+      "projectPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj",
       "packagesPath": "C:\\Users\\Yober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\obj\\",
+      "outputPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yober\\AppData\\Roaming\\NuGet\\NuGet.Config",

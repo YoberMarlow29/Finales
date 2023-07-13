@@ -493,11 +493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Formularios\\Formularios.csproj",
+      "projectUniqueName": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Formularios\\Formularios.csproj",
       "projectName": "Formularios",
-      "projectPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Formularios\\Formularios.csproj",
+      "projectPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Formularios\\Formularios.csproj",
       "packagesPath": "C:\\Users\\Yober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Formularios\\obj\\",
+      "outputPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Formularios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -514,8 +514,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj"
             }
           }
         }

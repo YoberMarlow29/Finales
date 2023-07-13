@@ -494,11 +494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yober\\Desktop\\Resuelto\\FinalLabo22020\\Formulario\\Formulario.csproj",
+      "projectUniqueName": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\FinalLabo22020\\Formulario\\Formulario.csproj",
       "projectName": "Formulario",
-      "projectPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\FinalLabo22020\\Formulario\\Formulario.csproj",
+      "projectPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\FinalLabo22020\\Formulario\\Formulario.csproj",
       "packagesPath": "C:\\Users\\Yober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\FinalLabo22020\\Formulario\\obj\\",
+      "outputPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\FinalLabo22020\\Formulario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -515,8 +515,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Yober\\Desktop\\Resuelto\\FinalLabo22020\\ClassLibrary1\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\FinalLabo22020\\ClassLibrary1\\Entidades.csproj"
+            "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\FinalLabo22020\\ClassLibrary1\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\FinalLabo22020\\ClassLibrary1\\Entidades.csproj"
             }
           }
         }

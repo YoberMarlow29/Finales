@@ -23,8 +23,10 @@ namespace Entidades
         private int satelites;
 
         public int Satelites { get => satelites; set => satelites = value; }
+        public Planeta() : base(0, "", 0, 0)
+        { }
 
-        public Planeta(int id, string nombre, double masa, double diametro) : base(id, nombre, masa, diametro)
+        public Planeta(int id, string nombre, double masa, double diametro):this() //: base(id, nombre, masa, diametro)
         {
 
         }

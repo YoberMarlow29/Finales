@@ -24,7 +24,12 @@ namespace Entidades
 
         public string TipoEspectral { get => tipoEspectral; set => tipoEspectral = value; }
 
-        public Estrella(int id, string nombre, double masa, double diametro) : base(id, nombre, masa, diametro)
+        public Estrella() : base(0, "", 0, 0)
+        {
+            
+        }
+
+        public Estrella(int id, string nombre, double masa, double diametro):this() //: base(id, nombre, masa, diametro)
         {
 
         }

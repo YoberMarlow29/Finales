@@ -6,6 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Entidades
 {
@@ -14,13 +15,30 @@ namespace Entidades
 
         public bool Serializar(List<T> datos)
         {
-            bool retorno = false;
+            /*bool retorno = false;
             string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "vasquez.json");
 
             try
             {
                 string json = JsonConvert.SerializeObject(datos, Formatting.Indented);
                 File.WriteAllText(path, json);
+                retorno = true;
+            }
+            catch (Exception ex)
+            {
+                retorno = false;
+            }
+            return retorno;*/
+            bool retorno = false;
+            string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "vasquez.xml");
+
+            try
+            {
+                XmlSerializer serializer = new XmlSerializer(typeof(List<T>));
+                using (StreamWriter writer = new StreamWriter(path))
+                {
+                    serializer.Serialize(writer, datos);
+                }
                 retorno = true;
             }
             catch (Exception ex)
@@ -54,9 +72,9 @@ namespace Entidades
                 throw new($"Error al leer el archivo '{path}': {ex.Message}");
             }*/
             #endregion
-            string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "vasquez.json");
+            //string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "vasquez.json");
 
-            try
+            /*try
             {
                 if (File.Exists(path))
                 {
@@ -95,9 +113,29 @@ namespace Entidades
             catch (Exception ex)
             {
                 throw new Exception($"Error al leer el archivo '{path}': {ex.Message}");
+            }*/
+            string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "vasquez.xml");
+
+            try
+            {
+                if (File.Exists(path))
+                {
+                    XmlSerializer serializer = new XmlSerializer(typeof(List<T>));
+                    using (StreamReader reader = new StreamReader(path))
+                    {
+                        List<T> listaDeserializada = (List<T>)serializer.Deserialize(reader);
+                        return listaDeserializada;
+                    }
+                }
+                else
+                {
+                    throw new FileNotFoundException($"El archivo '{path}' no existe.");
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error al leer el archivo '{path}': {ex.Message}");
             }
         }
-
-
     }
 }

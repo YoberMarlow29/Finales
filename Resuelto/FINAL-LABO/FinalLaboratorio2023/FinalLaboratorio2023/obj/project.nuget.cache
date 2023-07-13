@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N73zu/qCLZmEicL7XGHoFxdSMWBlWtmQsIYQ4Wiq9GCmnIsUkwUXwUOcCQ7NDJxIHY2L8JMOkdIYvPyraPf7jQ==",
+  "dgSpecHash": "T4l5IT9rqQTTFzORwqJlazkzUEtUau9tqwf/1D1U8LA3ss9ZHZWVa3xuCd+Xtkt8+89LVa6HWRVYokx4pAGx+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yober\\Desktop\\FINAL-LABO\\FinalLaboratorio2023\\FinalLaboratorio2023\\FinalLaboratorio2023.csproj",
+  "projectFilePath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\FINAL-LABO\\FinalLaboratorio2023\\FinalLaboratorio2023\\FinalLaboratorio2023.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

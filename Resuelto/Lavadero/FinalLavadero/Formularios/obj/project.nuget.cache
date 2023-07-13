@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B39tZ31F7iQzvu0gb08U+mXa8aSb09BT59SH9ku4XB1JDy6FUawz5nmWGujt0RCsomoxH4zlhsVyoUUZ2eHcsg==",
+  "dgSpecHash": "DG1a4EVDgg9ad0AxKgjPmn5NaomSrdGfkWmWuwycYM2rwu+H5iEZ6SgAImZPZTmg2gW5PQsM5Nmd8B389vwvdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Formularios\\Formularios.csproj",
+  "projectFilePath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Formularios\\Formularios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

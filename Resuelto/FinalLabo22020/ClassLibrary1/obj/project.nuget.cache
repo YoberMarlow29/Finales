@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uo9/43dqvLsKkPQU7XGf71eBtUJCqCgRdm26PagklGS0d0iTQTM45Q+xZYTRtxCWsdWi+n9X1EnpQJNxxsh8dA==",
+  "dgSpecHash": "DsYN5YOAbxHLBS50ovqI6VGfwcjO5QnT34lfusuD3W1NgT+TVyKgJnnfSpeE/+6BEYgtwDGxTyqiVuJ6t8DU0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yober\\Desktop\\Resuelto\\FinalLabo22020\\ClassLibrary1\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\FinalLabo22020\\ClassLibrary1\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

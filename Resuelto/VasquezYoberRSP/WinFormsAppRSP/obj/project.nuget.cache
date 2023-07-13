@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xG8nV8pa/vw2u3JXNubHsgbwUcHUh1TFRaY3pWox5DF9vNEGfRlj4N1rVrmuQHIZv2U4MxKOKrJIoWlrNQ+mTQ==",
+  "dgSpecHash": "fP93OYH91eghr/4t8sUlwHqYmcWgbK1M8w4MU29oWtIBuKLBGQuvAWoFySI1BuQjSCZv7U+0AsC9QGoUdqT33w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\WinFormsAppRSP\\WinFormsAppRSP.csproj",
+  "projectFilePath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\WinFormsAppRSP\\WinFormsAppRSP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KmiC+HgScjCYwOz1HY6WgEtTPEyS32goIMJkg8JnndtcJYMgEDHlzEcbqpRpnlkRXuhIf9M9GG9yuRHaXOvN4w==",
+  "dgSpecHash": "k8Rqm0SwzPmLywjawocmcu+0k8R6itFcPQMMKrTLaHXK2yLvfjHg6jwp0nx4jMRAap0CF1IxgxdcLyrWeHlp1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yober\\Desktop\\Resuelto\\FinalLabo22020\\Formulario\\Formulario.csproj",
+  "projectFilePath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\FinalLabo22020\\Formulario\\Formulario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

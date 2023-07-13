@@ -1,4 +1,6 @@
-﻿namespace Entidades
+﻿using System.Xml.Serialization;
+
+namespace Entidades
 {
     /*
         Clase Astro: -->abstracta
@@ -13,6 +15,9 @@
         Métodos:
         (proteg)InformacionAstro(): string
      */
+    [Serializable]
+    [XmlInclude(typeof(Planeta))]
+    [XmlInclude(typeof(Estrella))]
     public abstract class Astro
     {
         protected int id;
@@ -24,8 +29,14 @@
         public string Nombre { get => nombre; set => nombre = value; }
         public double Masa { get => masa; set => masa = value; }
         public double Diametro { get => diametro; set => diametro = value; }
-
-        public Astro(int id, string nombre, double masa, double diametro)
+        public Astro() 
+        {
+            this.id = 0;
+            this.nombre = "";
+            this.masa = 0;
+            this.diametro = 0;
+        }
+        public Astro(int id, string nombre, double masa, double diametro):this()
         {
             this.id = id;
             this.nombre = nombre;

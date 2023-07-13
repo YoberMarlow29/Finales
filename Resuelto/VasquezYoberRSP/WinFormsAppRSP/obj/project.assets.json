@@ -539,11 +539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\WinFormsAppRSP\\WinFormsAppRSP.csproj",
+      "projectUniqueName": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\WinFormsAppRSP\\WinFormsAppRSP.csproj",
       "projectName": "WinFormsAppRSP",
-      "projectPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\WinFormsAppRSP\\WinFormsAppRSP.csproj",
+      "projectPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\WinFormsAppRSP\\WinFormsAppRSP.csproj",
       "packagesPath": "C:\\Users\\Yober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\WinFormsAppRSP\\obj\\",
+      "outputPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\WinFormsAppRSP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -560,8 +560,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj": {
-              "projectPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj"
+            "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj": {
+              "projectPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\VasquezYoberRSP\\EntidadesRSP\\EntidadesRSP.csproj"
             }
           }
         }

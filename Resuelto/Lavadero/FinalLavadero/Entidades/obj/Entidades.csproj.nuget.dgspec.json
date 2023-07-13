@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Yober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yober\\AppData\\Roaming\\NuGet\\NuGet.Config",

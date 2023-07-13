@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZpnS5Q1fd7WnluchPc4Yaz1FzCGmdadxlc4aZu8iRPNVp5sNW9rY6Di+5BD2xdy6QmS0JRLhxtSIFPZYNu1vgQ==",
+  "dgSpecHash": "59ghiKW7kKeKldALAVa3AySwfZhYTj/T3Aoj/fBxYTpasvcRXIWeOUQLglKTU6Pltjw16FqZ2AGC1Jpjb5eX0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yober\\Desktop\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\Yober\\Desktop\\pe\\Finales\\Resuelto\\Lavadero\\FinalLavadero\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Yober\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
